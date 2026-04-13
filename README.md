@@ -1,2 +1,2 @@
 # Jenkins-ec2
-This repo will have my jenkins assignment
+docker agent configuration using jenkins pipeline
